@@ -1,4 +1,4 @@
-### Hi there 👋
+# <img src="https://media.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width=32>&nbsp; I'm Evan Yan 
 
 <!--
 **evanyans/evanyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
