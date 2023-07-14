@@ -1,7 +1,7 @@
 # <img src="https://github.com/evanyans/evanyans/blob/main/icon1.gif" width=32>&nbsp; Hello,&nbsp;I'm Evan Yan 
 <code>Computer Science & Business Administration Student @ <a target="_blank" href="https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree">University of Waterloo</a></code>
 
-  - **Languages:** `C`, `C++`, `Java`, `Javascript`, `Python`, `HTML/CSS`
+  - **Languages:** `C++`, `C#`, `Java`, `Javascript`, `Python`, `HTML/CSS`
   - **Technologies:** `React`, `Node.js`, `MongoDB`, `Express`
 <!--
 **evanyans/evanyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
