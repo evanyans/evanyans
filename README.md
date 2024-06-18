@@ -1,6 +1,6 @@
 hi i'm evan, i'm currently studying Computer Science at the University of Waterloo and Business Administration at Wilfrid Laurier University. i'm a game developer and full-stack web developer seeking Summer 2024 internships.
 
-currently on coop trying to improve waterloos coop.
+currently on co-op trying to improve waterloos co-op.
 
 recently, i built <a href="https://github.com/evanyans/tina">Tina</a> : an investment tool that aggregates and analyzes news headlines to deliver sentiment insights.
 
