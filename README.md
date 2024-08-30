@@ -1,4 +1,4 @@
-hi i'm evan, i study Computer Science at the University of Waterloo and Business Administration at Wilfrid Laurier University.
+hi i'm evan, i study computer science at the University of Waterloo and business administration at Wilfrid Laurier University.
 
 currently working on a <a href="https://github.com/evanyans/racing-line-simulation">racing line simulator</a> using ml agents.
 
