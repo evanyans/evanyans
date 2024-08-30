@@ -1,6 +1,6 @@
 hi i'm evan, i study Computer Science at the University of Waterloo and Business Administration at Wilfrid Laurier University.
 
-i'm currently working on a racing line simulator using ml agents.
+currently working on a racing line simulator using ml agents.
 
 looking for winter 2025 internship.
 
