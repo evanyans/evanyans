@@ -4,7 +4,7 @@ in my recent work term, i built a <a href="https://www.linkedin.com/feed/update/
 
 currently studying game engine architecture using C++ and OpenGL
 
-incoming ford software developer intern for winter 2025.
+working at ford software developer intern to make your car talk better
 
 view my work at <a href="https://evanyan.me/">evanyan.me</a> or visit my <a href="https://www.linkedin.com/in/yanevan/">linkedin</a>
 
