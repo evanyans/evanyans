@@ -1,6 +1,6 @@
 hi i'm evan, i study computer science at the university of waterloo and business administration at wilfrid laurier university.
 
-in my recent work term, i built a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7232846565734789120/">job scraping engine</a> for the university of waterloo's co-op department.
+in my recent work term, i built a <a href="https://news.microsoft.com/source/canada/2025/03/04/meet-jada-the-ai-assistant-expanding-job-opportunities-for-university-of-waterloo-students/?msockid=11ce037cb0666837070e160fb1a66904">job scraping engine</a> for the university of waterloo's co-op department.
 
 currently self-studying game engine architecture using C++ and OpenGL
 
