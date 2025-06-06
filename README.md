@@ -4,7 +4,7 @@ in my recent work term, i built a <a href="https://news.microsoft.com/source/can
 
 currently self-studying game engine architecture using C++ and OpenGL.
 
-working at ford as a software engineer intern to make your car talk better
+incoming swe intern @ super.com.
 
 view my work at <a href="https://evanyan.me/">evanyan.me</a> or visit my <a href="https://www.linkedin.com/in/yanevan/">linkedin</a>
 
