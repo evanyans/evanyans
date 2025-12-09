@@ -1,6 +1,6 @@
 hi i'm evan, i study computer science at the university of waterloo
 
-incoming swe intern @ lyft
+incoming swe intern @ lyft on the mobile eng team
 
 currently interning @ super.com, prev @ ford motor company
 
