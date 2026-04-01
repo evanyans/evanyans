@@ -1,6 +1,6 @@
 hi i'm evan, i study computer science at the university of waterloo
 
-incoming swe intern @ lyft on the payments team
+incoming swe intern @ lyft on the payments team (s26) and incoming swe intern @ microsoft (f26)
 
 currently studying at school in waterloo
 
