@@ -4,7 +4,7 @@ incoming swe intern @ microsoft (f26)
 
 prev @ lyft (s26) where i fixed google pay on the android app
 
-prev @ super.com & ford motor company
+prev @ super.com (f25) & ford motor company (w25)
 
 studying at computer science at waterloo
 
