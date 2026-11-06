@@ -1,6 +1,8 @@
 hi i'm evan, i study computer science at the university of waterloo
 
-incoming swe intern @ microsoft (f26)
+incoming swe intern @ notion (s27)
+
+currently a swe intern @ microsoft (f26)
 
 prev @ lyft (s26) where i fixed google pay on the android app
 
